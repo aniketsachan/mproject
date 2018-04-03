@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/sastatic/mproject" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aniketsachan/mproject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/media/aniket/SPACE" />
